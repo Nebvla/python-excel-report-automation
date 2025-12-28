@@ -74,10 +74,11 @@ python-excel-report-automation/
    ```bash
    pip install -r requirements.txt
 
-2. Run the script
-   `python main.py`
+2. Run the script:
+   ```bash
+   python main.py
 
-3. The PNG chart and PDF report will be generated in the project folder.
+4. The PNG chart and PDF report will be generated in the project folder.
 
 ## 💡 Use Cases
 
