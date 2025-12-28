@@ -45,7 +45,7 @@ The script generates:
   - Sales chart centered on the page
 
 ---
-
+```
 ## 📁 Project Structure
 
 python-excel-report-automation/
@@ -55,7 +55,7 @@ python-excel-report-automation/
 ├── sales_report.pdf
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🛠 Technologies Used
@@ -75,7 +75,7 @@ python-excel-report-automation/
    pip install -r requirements.txt
 
 2. Run the script
-   python main.py
+   `python main.py`
 
 3. The PNG chart and PDF report will be generated in the project folder.
 
