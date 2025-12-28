@@ -45,9 +45,9 @@ The script generates:
   - Sales chart centered on the page
 
 ---
-```
-## 📁 Project Structure
 
+## 📁 Project Structure
+```
 python-excel-report-automation/
 ├── main.py
 ├── sales_data.xlsx
