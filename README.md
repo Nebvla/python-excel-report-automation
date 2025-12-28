@@ -80,6 +80,8 @@ python-excel-report-automation/
 
 4. The PNG chart and PDF report will be generated in the project folder.
 
+---
+
 ## 💡 Use Cases
 
 - Monthly sales reporting
@@ -87,6 +89,8 @@ python-excel-report-automation/
 - Data cleaning and validation
 - Automated report generation
 - Replacing manual Excel workflows
+
+---
 
 ## 📌 Notes
 
